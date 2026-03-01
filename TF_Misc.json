@@ -1,0 +1,153 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TF Misc",
+  "Icon": "Square",
+  "Color": "FF5400",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "TF_Atlas_Bipod",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_Harris_Bipod",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_M14_Adapter",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_RifleSling_Black",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_RifleSling_Brown",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_RifleSling_OD",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_Foil_hat",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6B43PelvisArmor",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6B43PelvisArmor_Syrian",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_AK_6kh5Bayonet",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6kh5KnifeSheath",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_AK_Tactica_Tula10000Receiver",
+      "MaxPriceThreshold": 1400,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_AK_B33Receiver",
+      "MaxPriceThreshold": 1400,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

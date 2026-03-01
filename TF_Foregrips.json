@@ -1,0 +1,131 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TF Foregrips",
+  "Icon": "Square",
+  "Color": "FF5400",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "TF_SAW_RIS_Grip_FDE",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_SAW_RIS_Grip_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_AFG_RIS_Grip_FDE",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_AFG_RIS_Grip_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_AFG_MLOCK_Grip_FDE",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_AFG_MLOCK_Grip_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_BCM_MLOCK_Grip_FDE",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_BCM_MLOCK_Grip_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_RVG_RIS_Grip_FDE",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_RVG_RIS_Grip_Black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_ZenitRK1B25U_RIS_Grip",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TF Grenades",
+  "Icon": "Square",
+  "Color": "FF5400",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "TF_EMPGrenade",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_PhosphorusGrenade",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_TeargasGrenade",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_ChemicalGrenade",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TF Wear",
+  "Icon": "Square",
+  "Color": "FF5400",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "TF_PMK4GasMask",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_PMK4GasMask_OD",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Pants_Spring",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Pants_Autumn",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Pants_Syrian",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Pants_Syrian_EMR",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Pants_Winter",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_CargoPantsShort_Black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_CargoPantsShort_MARPAT",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_G3CombatPants_RG",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_G3CombatPants_MC",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_G3CombatPants_WD",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Jacket_Spring",
+      "MaxPriceThreshold": 2600,
+      "MinPriceThreshold": 2600,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Jacket_Autumn",
+      "MaxPriceThreshold": 2600,
+      "MinPriceThreshold": 2600,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Jacket_Syrian",
+      "MaxPriceThreshold": 2600,
+      "MinPriceThreshold": 2600,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Jacket_Syrian_EMR",
+      "MaxPriceThreshold": 2600,
+      "MinPriceThreshold": 2600,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_6sh122Jacket_Winter",
+      "MaxPriceThreshold": 2600,
+      "MinPriceThreshold": 2600,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_G3CombatShirt_RG",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_G3CombatShirt_MC",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_G3CombatShirt_WD",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TF_FannyPack_Coyote",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

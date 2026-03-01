@@ -1,0 +1,65 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Windstrider Gloves",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Fingerless_Gloves",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Fingerless_Gloves_Brown",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Fingerless_Gloves_Wool",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Fingerless_Gloves_Wool_Grey",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Fingerless_Gloves_Wool_Black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

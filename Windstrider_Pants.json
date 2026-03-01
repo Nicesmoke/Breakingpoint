@@ -1,0 +1,98 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Pants",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Blue_Leggings",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Latex_Leggings",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Latex_White_Leggings",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Adidas_Leggings",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Red_Leggings",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Purple_Leggings",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Kneepads_Jeans_Base",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Kneepads_Jeans_Black",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
