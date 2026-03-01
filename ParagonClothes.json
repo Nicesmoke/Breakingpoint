@@ -1,0 +1,164 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Paragon Clothes",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Paragon_Balaclava_Digital_Flora",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Balaclava_Digital_Desert",
+        "Paragon_Balaclava_Black",
+        "Paragon_Balaclava_Black_WL",
+        "Paragon_Balaclava_Blue",
+        "Paragon_Balaclava_Desert",
+        "Paragon_Balaclava_Desert_Camo",
+        "Paragon_Balaclava_White",
+        "Paragon_Balaclava_Green",
+        "Paragon_Balaclava_Navy",
+        "Paragon_Balaclava_Fatigue",
+        "Paragon_Balaclava_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacticalGloves_Digital_Flora",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacticalGloves_Digital_Desert",
+        "Paragon_TacticalGloves_Black",
+        "Paragon_TacticalGloves_Black_WL",
+        "Paragon_TacticalGloves_Blue",
+        "Paragon_TacticalGloves_Desert",
+        "Paragon_TacticalGloves_Green",
+        "Paragon_TacticalGloves_Navy",
+        "Paragon_TacticalGloves_Fatigue",
+        "Paragon_TacticalGloves_WL",
+        "Paragon_TacticalGloves_White"
+      ]
+    },
+    {
+      "ClassName": "Paragon_BGoggles_Pink",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_BGoggles_Black",
+        "Paragon_BGoggles_Blue",
+        "Paragon_BGoggles_Red",
+        "Paragon_DGoggles_Pink",
+        "Paragon_DGoggles_Black",
+        "Paragon_DGoggles_Blue",
+        "Paragon_DGoggles_Red",
+        "Paragon_GGoggles_Pink",
+        "Paragon_GGoggles_Black",
+        "Paragon_GGoggles_Blue",
+        "Paragon_GGoggles_Red"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacJacket_Digital_Flora",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacJacket_Digital_Desert",
+        "Paragon_TacJacket_Black",
+        "Paragon_TacJacket_Desert",
+        "Paragon_TacJacket_Blue",
+        "Paragon_TacJacket_White",
+        "Paragon_TacJacket_Green",
+        "Paragon_TacJacket_Fatigue",
+        "Paragon_TacJacket_Navy",
+        "Paragon_TacJacket_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacPants_Digital_Flora",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacPants_Digital_Desert",
+        "Paragon_TacPants_Black",
+        "Paragon_TacPants_Blue",
+        "Paragon_TacPants_Desert",
+        "Paragon_TacPants_Green",
+        "Paragon_TacPants_White",
+        "Paragon_TacPants_WL",
+        "Paragon_TacPants_Fatigue",
+        "Paragon_TacPants_Navy",
+        "Paragon_TacPants_Black_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_CombatPants_Digital_Flora",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_CombatPants_Digital_Desert",
+        "Paragon_CombatPants_Black",
+        "Paragon_CombatPants_Blue",
+        "Paragon_CombatPants_Desert",
+        "Paragon_CombatPants_Green",
+        "Paragon_CombatPants_White",
+        "Paragon_CombatPants_WL",
+        "Paragon_CombatPants_Fatigue",
+        "Paragon_CombatPants_Navy",
+        "Paragon_CombatPants_Black_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacBoots_Digital_Flora",
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 14000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacBoots_Digital_Desert",
+        "Paragon_TacBoots_Black",
+        "Paragon_TacBoots_Desert",
+        "Paragon_TacBoots_Green",
+        "Paragon_TacBoots_Blue",
+        "Paragon_TacBoots_Fatigue",
+        "Paragon_TacBoots_Navy",
+        "Paragon_TacBoots_WL",
+        "Paragon_TacBoots_Black_WL"
+      ]
+    }
+  ]
+}
