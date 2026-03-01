@@ -1,0 +1,43 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Coca Gear",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 40,
+  "Items": [
+    {
+      "ClassName": "DP_CocaSeedsPack",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 7000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DP_CocaBag",
+      "MaxPriceThreshold": 5400,
+      "MinPriceThreshold": 5400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DP_CocaBrick",
+      "MaxPriceThreshold": 190000,
+      "MinPriceThreshold": 190000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
