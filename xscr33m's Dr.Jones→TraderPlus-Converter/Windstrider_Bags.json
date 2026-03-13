@@ -1,0 +1,14 @@
+{
+  "Version": "2.5",
+  "EnableAutoCalculation": 0,
+  "EnableAutoDestockAtRestart": 0,
+  "EnableDefaultTraderStock": 0,
+  "TraderCategories": [
+    {
+      "CategoryName": "Windstrider Bags",
+      "Products": [
+        "Canvas_Backpack_Base,1,-1,1,800,800"
+      ]
+    }
+  ]
+}
