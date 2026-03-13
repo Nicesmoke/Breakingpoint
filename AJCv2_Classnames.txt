@@ -1,0 +1,40 @@
+<------- CUSTOM ZOMBIES ------>
+CDAJ_ZmbM_Boe
+CDAJ_ZmbM_Boe_Glowing
+CDAJ_ZmbM_Clown
+CDAJ_ZmbM_Demon
+CDAJ_ZmbM_Demon_Naked
+CDAJ_ZmbM_Demon_BOSS
+CDAJ_ZmbM_JohnCena
+CDAJ_ZmbM_Mutant
+CDAJ_ZmbM_Mutant_Bloody
+CDAJ_ZmbM_Mutant_Pale
+CDAJ_ZmbM_TribeDemon
+CDAJ_ZmbM_TribeDemon_White
+CDAJ_ZmbM_TribeDemon_WhiteGlowing
+CDAJ_ZmbM_TribeDemon_Pale
+CDAJ_ZmbM_TribeDemon_Red
+CDAJ_ZmbM_Skeleton
+CDAJ_ZmbM_Skeleton_Blood
+CDAJ_ZmbM_Skeleton_Moss
+CDAJ_ZmbM_Skeleton_Black
+CDAJ_ZmbM_Skeleton_BlackBlood
+CDAJ_ZmbM_Skeleton_BlackMoss
+CDAJ_ZmbM_SpaceSuit_Orange
+<------- VANILLA RESKINS ------>
+CDAJ_ZmbM_LostInfected
+CDAJ_ZmbM_Dark_Heavy
+CDAJ_ZmbM_NBC_Red
+CDAJ_ZmbM_NBC_BlueDark
+CDAJ_ZmbM_NBC_BlueLight
+CDAJ_ZmbM_NBC_Green
+CDAJ_ZmbM_NBC_Rainbow
+CDAJ_ZmbM_NBC_Space
+CDAJ_ZmbM_NBC_ERDL
+
+<-------ADMIN TOYS (DO NOT SPAWN FOR PLAYERS = NEEDS ADMIN INVISIBLE SUIT PIECES TO WORK CORRECTLY)----->
+CDAJ_Demon_Skin
+CDAJ_Skeleton_Skin
+CDAJ_SkeletonBlood_Skin
+CDAJ_SkeletonBlack_Skin
+CDAJ_SkeletonBlackBlood_Skin
