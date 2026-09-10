@@ -1,0 +1,120 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG Flight Suits",
+  "Icon": "Soldier",
+  "Color": "FF5400",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "FOG_FlightSuit_Black",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_FlightSuit_Grey",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_FlightSuit_Tan",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_FlightSuit_RG",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_FlightSuit_MC",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_FlightSuit_MCB",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_FlightSuit_MCT",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_FlightSuit_M81",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_FlightSuit_UCP",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_FlightSuit_AOR2",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
