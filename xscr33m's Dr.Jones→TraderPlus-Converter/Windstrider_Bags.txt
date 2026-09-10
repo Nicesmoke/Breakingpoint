@@ -1,2 +1,0 @@
-<Category>Windstrider Bags
-Canvas_Backpack_Base, *, 800, 800
