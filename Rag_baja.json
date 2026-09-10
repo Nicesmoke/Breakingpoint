@@ -1,0 +1,110 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Rag baja",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "rag_baja",
+      "MaxPriceThreshold": 280000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_baja_driverdoor",
+		"rag_baja_codriverdoor",
+		"rag_baja_wheel",
+		"rag_baja_wheel",
+		"rag_baja_wheel",
+		"rag_baja_wheel_big",
+		"rag_baja_wheel_big"
+			
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_baja_green",
+      "MaxPriceThreshold": 280000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_baja_driverdoor_green",
+		"rag_baja_codriverdoor_green",
+		"rag_baja_wheel",
+		"rag_baja_wheel",
+		"rag_baja_wheel",
+		"rag_baja_wheel_big",
+		"rag_baja_wheel_big"
+			
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_baja_ryg",
+      "MaxPriceThreshold": 280000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_baja_driverdoor_ryg",
+		"rag_baja_codriverdoor_ryg",
+		"rag_baja_wheel",
+		"rag_baja_wheel",
+		"rag_baja_wheel",
+		"rag_baja_wheel_big",
+		"rag_baja_wheel_big"
+			
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_baja_camo",
+      "MaxPriceThreshold": 280000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_baja_driverdoor_camo",
+		"rag_baja_codriverdoor_camo",
+		"rag_baja_wheel",
+		"rag_baja_wheel",
+		"rag_baja_wheel",
+		"rag_baja_wheel_big",
+		"rag_baja_wheel_big"
+			
+      ],
+      "Variants": []
+    }
+  ]
+}

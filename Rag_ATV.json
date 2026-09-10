@@ -1,0 +1,136 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Rag ATV's",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "rag_atv_blue",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rag_atv_red",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel"
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_atv_green",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel"
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_atv_pink",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel"
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_atv_white",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel"
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_atv_black",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel",
+        "rag_atv_wheel"
+      ],
+      "Variants": []
+    }
+  ]
+}

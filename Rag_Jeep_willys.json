@@ -1,0 +1,34 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Rag jeep willys",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "rag_jeep_willys",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_willy_hood",
+		"rag_willy_wheel",
+		"rag_willy_wheel",
+		"rag_willy_wheel",
+		"rag_willy_wheel",
+		"CanisterGasoline"
+			
+      ],
+      "Variants": []
+    }
+  ]
+}

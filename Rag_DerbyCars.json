@@ -1,0 +1,106 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Rag derby cars",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "rag_derby_car",
+      "MaxPriceThreshold": 400000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_derby_car_driverdoor",
+		"rag_derby_car_codriverdoor",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel"
+			
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_derby_car_green",
+      "MaxPriceThreshold": 400000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_derby_car_driverdoor_green",
+		"rag_derby_car_codriverdoor_green",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel"
+			
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_derby_car_red",
+      "MaxPriceThreshold": 400000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_derby_car_driverdoor_red",
+		"rag_derby_car_codriverdoor_red",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel"
+			
+      ],
+      "Variants": []
+    },
+	    {
+      "ClassName": "rag_derby_car_yellow",
+      "MaxPriceThreshold": 400000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_derby_car_driverdoor_yellow",
+		"rag_derby_car_codriverdoor_yellow",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel",
+		"rag_derby_car_wheel"
+			
+      ],
+      "Variants": []
+    }
+  ]
+}

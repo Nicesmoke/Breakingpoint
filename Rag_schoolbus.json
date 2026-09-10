@@ -1,0 +1,56 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Rag schoolbus",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "rag_schoolbus",
+      "MaxPriceThreshold": 350000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "TruckBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_schoolbus_hood",
+		"rag_schoolbus_wheel",
+		"rag_schoolbus_wheel",
+		"rag_schoolbus_wheel_double",
+		"rag_schoolbus_wheel_double"
+			
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rag_schoolbus_czech",
+      "MaxPriceThreshold": 350000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "TruckBattery",
+        "CarRadiator",
+        "SparkPlug",
+		"rag_schoolbus_hood",
+		"rag_schoolbus_wheel",
+		"rag_schoolbus_wheel",
+		"rag_schoolbus_wheel_double",
+		"rag_schoolbus_wheel_double"
+			
+      ],
+      "Variants": []
+    }
+  ]
+}
