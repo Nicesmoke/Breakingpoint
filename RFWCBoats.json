@@ -1,0 +1,188 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Boats",
+  "Icon": "Deliver",
+  "Color": "FF5400",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "boat_01_orange",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "boat_01_black",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "boat_01_blue",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "boat_01_camo",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_Zodiac_Black",
+      "MaxPriceThreshold": 140000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_Zodiac_Orange",
+      "MaxPriceThreshold": 140000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_DragBoat_Red",
+      "MaxPriceThreshold": 190000,
+      "MinPriceThreshold": 190000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_DragBoat_Black",
+      "MaxPriceThreshold": 190000,
+      "MinPriceThreshold": 190000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_Seadoo_Camo",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_Seadoo_Green",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_Seadoo_Orange",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_Whaler",
+      "MaxPriceThreshold": 130000,
+      "MinPriceThreshold": 130000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_CarpBoat",
+      "MaxPriceThreshold": 185000,
+      "MinPriceThreshold": 170000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    }
+  ]
+}
